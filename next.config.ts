@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
     if (isServer) {
       config.output = {
         ...config.output,
-        chunkLoadingGlobal: "webpackChunk_saec_guard",
+        chunkLoadingGlobal: "webpackChunk_project96",
       };
     }
     return config;

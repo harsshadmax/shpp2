@@ -1,5 +1,5 @@
 -- ============================================================================
--- SAEC-Guard: Authentication & Users Database Schema
+-- Project96: Authentication & Users Database Schema
 -- Compatible with PostgreSQL & Supabase
 -- ============================================================================
 

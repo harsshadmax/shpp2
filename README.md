@@ -1,4 +1,4 @@
-# SAEC-Guard
+# Project96
 
 After a sexual-assault examination, the evidence collected doesn't stay in
 one pair of hands — it moves from a medical officer, to a police
@@ -9,7 +9,7 @@ fact, is whether it actually happened that way: was the seal really intact
 when it changed hands? Did twelve hours quietly turn into two days
 somewhere in transit? Did the specimen count match at every step?
 
-SAEC-Guard makes that chain verifiable instead of just documented. Every
+Project96 makes that chain verifiable instead of just documented. Every
 handoff gets a real cryptographic seal, every step is timestamped and
 hashed onto the one before it, and a tampered record doesn't just look
 suspicious — it fails a live integrity check and says exactly where it

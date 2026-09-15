@@ -141,7 +141,7 @@ export default function LoginPage() {
             </div>
             <div>
               <div className="font-mono-id text-[16px] font-semibold tracking-wide text-[var(--ink)]">
-                SAEC-GUARD
+                PROJECT96
               </div>
             </div>
           </div>

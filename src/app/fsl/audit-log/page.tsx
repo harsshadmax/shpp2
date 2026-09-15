@@ -62,7 +62,7 @@ function AuditLogContent() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
     a.href = url;
-    a.download = `saec-guard-audit-log-${new Date().toISOString().slice(0, 10)}.csv`;
+    a.download = `project96-audit-log-${new Date().toISOString().slice(0, 10)}.csv`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
